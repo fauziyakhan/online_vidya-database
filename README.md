@@ -1,4 +1,4 @@
-created bt fauziya khan
+created by fauziya khan
 
 project Description:
 created a database for"online_vidya" database using postgree and in that databse created student table with the following columns
